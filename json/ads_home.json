@@ -1,5 +1,14 @@
 {
-    "slot_1": null,
-    "slot_2": null,
-    "slot_3": null
+    "slot_1": {
+        "link": "https://google.com",
+        "image": "https://via.placeholder.com/480x200?text=Slot+Ads+1"
+    },
+    "slot_2": {
+        "link": "https://facebook.com",
+        "image": "https://via.placeholder.com/480x480?text=Slot+Ads+2"
+    },
+    "slot_3": {
+        "link": "https://facebook.com",
+        "image": "https://via.placeholder.com/480x480?text=Slot+Ads+3"
+    },
 }
